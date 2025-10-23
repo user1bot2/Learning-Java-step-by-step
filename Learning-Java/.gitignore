@@ -1,0 +1,12 @@
+# Carpetas y archivos generados por IntelliJ IDEA
+.idea/
+*.iml
+
+
+# Archivos de compilación (salida de Java)
+out/
+*.class
+
+# Archivos temporales o del sistema (opcional, pero recomendado)
+.DS_Store
+Thumbs.db
