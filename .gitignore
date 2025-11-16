@@ -3,10 +3,10 @@
 *.iml
 
 
-# Archivos de compilación (salida de Java)
+# Archivos de compilación 
 out/
 *.class
 
-# Archivos temporales o del sistema (opcional, pero recomendado)
+# Archivos temporales o del sistema 
 .DS_Store
 Thumbs.db
